@@ -1,3 +1,2 @@
-function saludo () {
-  alert ("hola a todos")  
-}
+const saludo = () => alert ("hola a todos")  
+
